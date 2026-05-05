@@ -143,8 +143,8 @@ import telepot
 from telepot.loop import MessageLoop
 
 # Telegram Bot Credentials
-TOKEN = "7881720805:AAG-FUHhQ9zvfG9CfnK1uqkWj_m9gDuzvk4"
-CHAT_ID = "1481176970"
+TOKEN = ""
+CHAT_ID = ""
 
 # Get the current timestamp
 x = datetime.now().strftime('%Y-%m-%d %H-%M-%S')
